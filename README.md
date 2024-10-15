@@ -10,6 +10,10 @@ This project implements an **Autocomplete Search** interface using HTML, CSS, an
 - **Responsive Design**: The layout is responsive and adapts to different screen sizes.
 - **Font Awesome Icons**: The search icon is rendered using Font Awesome.
 
+## Screenshot
+
+![Dynamic Search](1.png)
+
 ## Technologies Used
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
